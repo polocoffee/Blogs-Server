@@ -3,27 +3,27 @@
     "id" : 1,
     "name" : "Animals Eat Plastic Because It Smells Like Food",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/albatross-eating-plastic.jpg",
-    "content_url" : "https://github.com/polocoffee/Blogs-Server/blob/main/blogs/blog1.md",
+    "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog1.md",
   },
 
    {
     "id" : 2,
     "name" : "Some Animals Don’t Actually Sleep for the Winter, and Other Surprises About Hibernation",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/arctic-ground-squirrel-upright.jpg",
-    "content_url" : "https://github.com/polocoffee/Blogs-Server/blob/main/blogs/blog2.md",
+    "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog2.md",
   },
 
    {
     "id" : 3,
     "name" : "Nature’s Most Impressive Animal Migrations",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/arctic-tern-sterna-paradisaea.jpg",
-    "content_url" : "https://github.com/polocoffee/Blogs-Server/blob/main/blogs/blog3.md",
+    "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog3.md",
   },
 
    {
     "id" : 4,
     "name" : "Plant and Animal Reproduction",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/lion-tailed-macaque-family.jpg",
-    "content_url" : "https://github.com/polocoffee/Blogs-Server/blob/main/blogs/blog4.md",
+    "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog4.md",
   }
 ]
