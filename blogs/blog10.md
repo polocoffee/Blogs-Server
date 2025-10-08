@@ -11,11 +11,12 @@ An adaptation is any heritable trait that helps an organism, such as a plant or 
 
 Picture of a koala with baby koala
 
-![Lion-tailed Macaque Family](https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/koalas-climb-a-eucalyptus-tree.jpg)
+![Koalas Climb a Eucalyptus Tree](https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/koalas-climb-a-eucalyptus-tree.jpg)
 
 
 Any number of characteristics can vary among individuals of a given species — some may be larger, hairier, fight off infections better, or have smaller ears. These characteristics are largely determined by their genes, which are passed down from their parents and subsequently passed down to their own offspring. Some of these characteristics, or traits, provide competitive advantages like speed, strength, or attractiveness. If those traits are particularly helpful, individuals with those traits will produce more offspring than those without. Over generations, the number of individuals with that advantageous trait, or adaptation, will increase until it becomes a general attribute of the species.
 
+---
 
 ### Structural and Behavioral Adaptations
 
