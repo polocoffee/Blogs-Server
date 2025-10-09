@@ -1,69 +1,69 @@
 [
   {
     "id" : 1,
-    "name" : "Animals Eat Plastic Because It Smells Like Food",
+    "title" : "Animals Eat Plastic Because It Smells Like Food",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/albatross-eating-plastic.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog1.md",
   },
 
   {
     "id" : 2,
-    "name" : "Some Animals Don’t Actually Sleep for the Winter, and Other Surprises About Hibernation",
+    "title" : "Some Animals Don’t Actually Sleep for the Winter, and Other Surprises About Hibernation",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/arctic-ground-squirrel-upright.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog2.md",
   },
 
  {
     "id" : 3,
-    "name" : "Nature’s Most Impressive Animal Migrations",
+    "title" : "Nature’s Most Impressive Animal Migrations",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/arctic-tern-sterna-paradisaea.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog3.md",
   },
 
   {
     "id" : 4,
-    "name" : "Plant and Animal Reproduction",
+    "title" : "Plant and Animal Reproduction",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/lion-tailed-macaque-family.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog4.md",
   },
     {
     "id" : 5,
-    "name" : "Island Oddballs",
+    "title" : "Island Oddballs",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/island-oddballs.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog5.md",
   },
 
   {
     "id" : 6,
-    "name" : "Cracks in the Kalahari’s Emerald: Threats to the Okavango Delta",
+    "title" : "Cracks in the Kalahari’s Emerald: Threats to the Okavango Delta",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/giraffes-in-the-okavango.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog6.md",
   },
 
   {
     "id" : 7,
-    "name" : "Endangered Species",
+    "title" : "Endangered Species",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/giant-panda.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog7.md",
   },
 
   {
     "id" : 8,
-    "name" : "Wildlife Crossings",
+    "title" : "Wildlife Crossings",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/elk-crossing.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog8.md",
   },
 
   {
     "id" : 9,
-    "name" : "Ecosystem",
+    "title" : "Ecosystem",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/bison-bison.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog9.md",
   },
 
   {
     "id" : 10,
-    "name" : "Adaptation and Survival",
+    "title" : "Adaptation and Survival",
     "thumbnail_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/images/koalas-climb-a-eucalyptus-tree.jpg",
     "content_url" : "https://raw.githubusercontent.com/polocoffee/Blogs-Server/refs/heads/main/blogs/blog10.md",
   }
